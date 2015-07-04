@@ -10,9 +10,6 @@
     "email": "woody.rousseau@ensta-paristech.fr",
     "url": "https://github.com/wrousseau"
   },
-  "scripts": {
-    "test": "mocha"
-  },
   "files": [
     "generators"
   ],

@@ -1,4 +1,4 @@
-# generator-symfony-with-benefits [![Build Status](https://secure.travis-ci.org/wrousseau/generator-symfony-with-benefits.png?branch=master)](https://travis-ci.org/wrousseau/generator-symfony-with-benefits)
+# Generator Symfony With Benefits
 
 ## Getting Started
 
