@@ -17,6 +17,14 @@ The following node packages need to be installed globally :
     npm install -g yo
 
 * [Composer](https://getcomposer.org/download/)
+* [Ansible](http://docs.ansible.com/intro_installation.html)
+* [Vagrant](http://docs.vagrantup.com/v2/installation/)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* NFS
+
+NFS is included on OSX but can be installed on Ubuntu Using
+
+    sudo apt-get install nfs-kernel-server
 
 ### Installing
 
