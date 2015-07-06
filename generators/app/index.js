@@ -52,9 +52,6 @@ module.exports = yeoman.generators.Base.extend({
       return utils.writeYaml(parametersFilePath, parametersFile);
     })
     .then(function() {
-      return utils.writeYaml(self.destinationPath('app/config/parameters.yml.dist'), parametersFile);
-    })
-    .then(function() {
       done();
     });
   },
