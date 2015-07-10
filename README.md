@@ -6,6 +6,10 @@
 
 A basic latest Symfony project, with benefits (to come...)
 
+* Ansible provisioning
+* Vagrantfile
+* `.travis.yml`
+
 ### Requirements
 
 Using this generator requires several dependencies :
@@ -32,6 +36,7 @@ This generator is still on its early stages of development, and is not yet avail
 To make it available, you will need to clone this project and run the following command:
 
     git clone https://github.com/wrousseau/generator-symfony-with-benefits
+    cd generator-symfony-with-benefits
     npm link
 
 ## Using it
