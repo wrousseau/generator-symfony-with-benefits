@@ -117,6 +117,10 @@ module.exports = yeoman.generators.Base.extend({
         this.templatePath('_bower.json'),
         this.destinationPath('bower.json')
       );
+      this.fs.copy(
+        this.templatePath('_.travis.yml'),
+        this.destinationPath('.travis.yml')
+      )
     },
 
     projectfiles: function () {
